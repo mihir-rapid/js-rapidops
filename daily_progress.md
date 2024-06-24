@@ -11,3 +11,9 @@
 - function object
 - the 'new function' syntax
 - decorators and forwarding, call/apply
+- function binding
+
+## 24-06-2024 Monday
+- property flags and descriptors
+- property getters and setters
+- prototypal inheritance
