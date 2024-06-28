@@ -17,3 +17,8 @@
 - property flags and descriptors
 - property getters and setters
 - prototypal inheritance
+
+## 25-06-2024 Tuesday
+- function prototype
+- native prototypes
+- prototype methods, object without__proto__
