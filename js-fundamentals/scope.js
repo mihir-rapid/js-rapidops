@@ -1,11 +1,19 @@
-var a = 100
-{
-    var a = 10
-    let b = 20
-    const c = 30
-    console.log(a);
-    console.log(b);
-    console.log(c); 
+let users = {
+    email: "mihir@google.con",
+    user: {
+        user1: {
+            name: "one",
+            email: "one@google.com"
+        },
+        user2: {
+            name: "two",
+            email: "two@google.com"
+        },
+        
+    },
+    print: function(){
+        console.log(`${this.email} welcome to dashboard`);
+    }
 }
 
-console.log(a);
+console.log(users.print());

@@ -9,4 +9,9 @@
 // unnamed/anonymouse IIFE 
 ( (name) => {
     console.log(`${name} connected`);
-})('user_db')
+})('user_db');
+
+
+(function hello() {
+    console.log("Hello");
+})()

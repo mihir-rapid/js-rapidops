@@ -75,9 +75,11 @@
 ## array methods
 
 - create array 
+````
 - let superheros = ['batman', 'spiderman' , 'ironman', 'hulk']
 - let numbers = [1, 2, 3, 4, 5]
 - let info = ['hulk', 44 , 'spiderman']
+````
 
 - push() - add element to end
 - pop() - removes element from end & return
